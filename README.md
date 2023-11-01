@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Goodluck
-- 👀 I’m interested in Api's...
+- 👀 I’m interested in data science and machine learning 
 - 🌱 I’m currently learning python...
 - 💞️ I’m looking to collaborate on a python project..
 - 📫 How to reach me ... goodyotito@gmail.com
